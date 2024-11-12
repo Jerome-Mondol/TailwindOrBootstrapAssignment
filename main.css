@@ -6,8 +6,11 @@
 
 
 .home {
-    background-image: url(./img/HomePage.png);
+    background: url(./img/background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+.subText {
+    mix-blend-mode:color;
 }
