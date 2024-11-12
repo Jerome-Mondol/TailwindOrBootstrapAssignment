@@ -5,6 +5,11 @@
 @tailwind utilities;
 
 
+.main {
+    background-color: #FAFAFA;
+    width: 100%;
+    overflow-x: hidden;
+}
 .home {
     background: url(./img/background.png);
     background-repeat: no-repeat;
